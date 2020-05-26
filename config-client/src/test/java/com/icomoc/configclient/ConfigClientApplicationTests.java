@@ -1,10 +1,10 @@
-package com.icomoc.configserver;
+package com.icomoc.configclient;
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ConfigServerApplicationTests {
+class ConfigClientApplicationTests {
 
     @Test
     void contextLoads() {
